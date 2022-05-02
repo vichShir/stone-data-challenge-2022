@@ -45,3 +45,4 @@ Este projeto é a proposta de resolução elaborado por mim da 2ª etapa, que se
 
 * Satus Sistemas. **write-off: você sabe o que significa?** 2017. Disponível em: https://www.satussistemas.com.br/o-que-significa-write-off/.
 * CUNHA, Helen. **TPV (Total Payment Volume): entenda o que é esse indicador e como adaptá-lo à sua realidade**. Disponível em: https://blog.tecnospeed.com.br/tpv-total-payment-volume/#:~:text=A%20sigla%2C%20que%20em%20ingl%C3%AAs,adquirentes%2C%20subadiquirentes%20e%20outros%20intermedi%C3%A1rios.
+* NEOS. **The Five Zones Every Data Lake Should Consider**. 2019. Disponível em: https://www.neosllc.com/the-five-zones-every-data-lake-should-consider/.
