@@ -1,6 +1,6 @@
 # Stone Data Challenge 2022 🪨
 
-![CSS3](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![CSS3](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ### 📃 Descrição
 
@@ -14,7 +14,7 @@ A Stone precisou garantir a recuperação de clientes que apresentam **problemas
 
 Para tornar essa ação mais eficiente, questiona-se:
 
-* Qual é a curva ideal de vezes que acionamos um cliente?
+* **Qual é a curva ideal de vezes que acionamos um cliente? (curva de engajamento x quantidade de acionamentos)**
 
 ### 🎲 Entendendo a estrutura dos dados
 
@@ -39,7 +39,7 @@ Para este case, foi disponibilizado uma **amostra de 14 mil** contratos **gerado
 
 ### 🌐 Motivação
 
-Este projeto é a proposta de resolução elaborado por mim da 2ª etapa, que será avaliado no Hackathon da **Stone Data Challenge** de 2022.
+Este projeto é a proposta de resolução elaborado por mim da 2ª etapa para o Hackathon da **Stone Data Challenge** de 2022.
 
 ### 📖 Referências
 
